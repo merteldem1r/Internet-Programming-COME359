@@ -2,7 +2,7 @@
 
 **AUTHOR**: Mert Eldemir
 <br>
-**Student ID** 25120205086
+**Student ID**: 25120205086
 
 ## Course Content
 
