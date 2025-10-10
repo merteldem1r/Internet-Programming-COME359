@@ -1,6 +1,8 @@
 # Assignment 1: Answers
 
 **AUHTOR**: Mert Eldemir
+<br/>
+**Note**: Some images were taken from [geekforgeeks.com](https://www.geeksforgeeks.org/)
 
 ## Section 1: General Internet Programming Questions
 
@@ -119,9 +121,10 @@
    ```json
    {
      "student": {
-       "name": "Sena",
-       "age": 21,
-       "department": "Computer Engineering"
+       "firstName": "Mert",
+       "lastName": "Eldemir",
+       "department": "Computer Engineering",
+       "isStudent" true,
      }
    }
    ```
